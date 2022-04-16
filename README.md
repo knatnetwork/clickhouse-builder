@@ -1,6 +1,6 @@
 # Clickhouse Builder
 
-This is a image contains necessary dependencies for building Clickhouse, can be used for further building, the building `Dockerfile` should like this:
+This is the image contains necessary dependencies for building Clickhouse, can be used for further building, the building `Dockerfile` should like this:
 
 ```Dockefile
 FROM knatnetwork/clickhouse-builder:latest
